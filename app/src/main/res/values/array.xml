@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nom">
+        <item>gamra</item>
+        <item>chams</item>
+        <item>ardh</item>
+    </string-array>
+    <integer-array name="dis">
+        <item>102</item>
+        <item>684</item>
+        <item>85</item>
+    </integer-array>
+</resources>
